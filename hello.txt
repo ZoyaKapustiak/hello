@@ -2,3 +2,4 @@
 Другая строка
 Привет мир!
 Hello, Git!
+Hello, git rebase!
